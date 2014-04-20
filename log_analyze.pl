@@ -2,7 +2,6 @@
 
 use strict;
 use warnings qw(all);
-use Data::Dumper();
 
 my $VERBOSE = 0;
 
